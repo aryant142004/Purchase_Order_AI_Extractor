@@ -40,13 +40,14 @@ flowchart LR
 
 ## Screenshots
 
-_Add images to a `docs/` folder and reference them here._
+**Review task in My Inbox**
+![Review task](docs/Screenshot%202026-10-20%20125329.png)
 
-| Step | Screenshot |
-|------|-----------|
-| Process design | `docs/process.png` |
-| Automation flow | `docs/automation.png` |
-| Review task in My Inbox | `docs/inbox-task.png` |
+**Process design**
+![Process design](docs/Screenshot%202026-10-20%20123940.png)
+
+**Automation flow**
+![Automation flow](docs/Screenshot%202026-10-20%20124348.png)
 
 ## Key implementation notes
 
