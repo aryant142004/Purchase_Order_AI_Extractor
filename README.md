@@ -2,7 +2,6 @@
 
 An end-to-end automation built in **SAP Build Process Automation** that reads purchase order PDFs from a local folder, extracts the key fields with **SAP Document Information Extraction (DOX)**, and routes the result to a human reviewer for approval, with an email notification on approval.
 
-> Demo video: _add link here_
 
 ## What it does
 
